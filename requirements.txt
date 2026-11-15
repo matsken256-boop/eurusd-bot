@@ -1,6 +1,2 @@
-pandas
+MetaTrader5
 python-dotenv
-requests
-fxapis
-python-dotenv
-httpx
